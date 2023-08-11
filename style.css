@@ -1,0 +1,31 @@
+*{
+	padding:0px;
+	margin:10px;
+	text-decoration:none;
+	list-sizing:none;
+	box-sizing:border-box;
+}
+html{
+	scroll-behaviour:smooth;
+}
+body{
+	font-family:comic sans ms;
+}
+nav{
+	background-color:White;
+
+}
+label{
+	Colour:white;
+	font-family:comic sans ms;
+	font-size:35px;
+    line-height:80px;
+    padding:0 100px;
+}
+nav ul{
+	float:right;
+}
+nav ul li{
+	display:inline-block;
+}
+
